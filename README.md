@@ -18,7 +18,8 @@ I'm currently learning penetration testing and ethical hacking, with a focus on 
 ### 📖 Learning Path
 - [x] Started OverTheWire: Bandit (Dec 2025)
 - [ ] Complete Bandit (34 levels)
-- [ ] TryHackMe: Pre-Security
+- [x] TryHackMe: Pre-Security
+- [ ] TryHackMe: Cybersecurity 101
 - [ ] TryHackMe: Jr Penetration Tester
 - [ ] TryHackMe: Offensive Pentesting
 - [ ] TryHackMe: Red Teaming
