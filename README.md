@@ -5,8 +5,8 @@
 I'm currently learning penetration testing and ethical hacking, with a focus on hands-on practical skills.
 
 ### 📚 What I'm Learning
-- **Currently:** [OverTheWire: Bandit] (Level 10/34)
-- **Next:** TryHackMe Pre-Security Path
+- **Currently:** [OverTheWire: Bandit] (Level 10/34) and TryHackMe: Cybersecurity 101
+- **Next:** TryHackMe: Jr Pentesting 
 - **Goal:** CompTIA Security+ certification by February 2027
 
 ### 🛠️ Skills I'm Building
@@ -30,7 +30,7 @@ When I'm not learning cybersecurity, I'm working on:
 - Illustration and Webcomic Development
 - Instrumental Music Production
 ### 📫 Connect With Me
-- LinkedIn: [](https://www.linkedin.com/in/tyrell-stephenson-b5b273386/)
+- LinkedIn: [(https://www.linkedin.com/in/tyrell-stephenson-b5b273386/)]
 - Location: Nairobi, Kenya
 
 ---
