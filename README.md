@@ -1,4 +1,4 @@
-# Hi, I'm Tyrell 👻
+# Hi, I'm Tyrell 
 
 ## 🎯 Cybersecurity Journey
 
